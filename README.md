@@ -12,6 +12,7 @@
 
 ### Alguns de meus repositórios
 
+[![Xadrez Java](https://github-readme-stats.vercel.app/api/pin?username=DaniloRomano&theme=react&repo=XadrezJava)](https://github.com/DaniloRomano/XadrezJava)
 [![Movit NLW React](https://github-readme-stats.vercel.app/api/pin?username=DaniloRomano&theme=react&repo=movit-next)](https://github.com/DaniloRomano/movit-next)
 [![Movit AngularJS](https://github-readme-stats.vercel.app/api/pin?username=DaniloRomano&theme=react&repo=movit-angularjs)](https://github.com/DaniloRomano/movit-angularjs)
 [![Contatooh Curso AngularJS](https://github-readme-stats.vercel.app/api/pin?username=DaniloRomano&theme=react&repo=contatooh)](https://github.com/DaniloRomano/contatooh)
