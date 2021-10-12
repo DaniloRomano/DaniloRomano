@@ -5,6 +5,13 @@
 
 [![Danilo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=DaniloRomano&theme=react&show_icons=true&layout=compact)](https://github.com/DaniloRomano)
 
+> Project's Status
+
+> Movit AngularJS 
+>
+> [![Movit AngularJS](https://github.com/DaniloRomano/movit-angularjs/actions/workflows/workflow.yml/badge.svg?event=workflow_dispatch)](https://github.com/DaniloRomano/movit-angularjs/actions/workflows/workflow.yml)
+
+
 ### Alguns de meus repositórios
 
 [![Movit NLW React](https://github-readme-stats.vercel.app/api/pin?username=DaniloRomano&theme=react&repo=movit-next)](https://github.com/DaniloRomano/movit-next)
