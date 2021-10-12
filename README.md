@@ -13,6 +13,8 @@
 
 [![Contatooh Curso AngularJS](https://github-readme-stats.vercel.app/api/pin?username=DaniloRomano&theme=react&repo=contatooh)](https://github.com/DaniloRomano/contatooh)
 
+[![.NET C# API](https://github-readme-stats.vercel.app/api/pin?username=DaniloRomano&theme=react&repo=study)](https://github.com/DaniloRomano/study)
+
 
 <!--
 **DaniloRomano/DaniloRomano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
