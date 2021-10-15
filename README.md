@@ -17,6 +17,7 @@
 [![Movit AngularJS](https://github-readme-stats.vercel.app/api/pin?username=DaniloRomano&theme=react&repo=movit-angularjs)](https://github.com/DaniloRomano/movit-angularjs)
 [![Contatooh Curso AngularJS](https://github-readme-stats.vercel.app/api/pin?username=DaniloRomano&theme=react&repo=contatooh)](https://github.com/DaniloRomano/contatooh)
 [![.NET C# API](https://github-readme-stats.vercel.app/api/pin?username=DaniloRomano&theme=react&repo=study)](https://github.com/DaniloRomano/study)
+[![Tetris-Vue](https://github-readme-stats.vercel.app/api/pin?username=DaniloRomano&theme=react&repo=Tetris-vue)](https://github.com/DaniloRomano/Tetris-vue)
 
 
 <!--
