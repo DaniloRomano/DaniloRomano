@@ -2,13 +2,6 @@
 
 [![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloRomano&theme=react&show_icons=true)](https://github.com/DaniloRomano)
 [![Danilo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=DaniloRomano&theme=react&show_icons=true&layout=compact)](https://github.com/DaniloRomano)
- 
-> Project's Status
-
-> Movit AngularJS 
->
-> [![Movit AngularJS](https://github.com/DaniloRomano/movit-angularjs/actions/workflows/workflow.yml/badge.svg?event=workflow_dispatch)](https://github.com/DaniloRomano/movit-angularjs/actions/workflows/workflow.yml)
-
 
 ### Alguns de meus repositórios
 
@@ -19,19 +12,7 @@
 [![.NET C# API](https://github-readme-stats.vercel.app/api/pin?username=DaniloRomano&theme=react&repo=study)](https://github.com/DaniloRomano/study)
 [![Tetris-Vue](https://github-readme-stats.vercel.app/api/pin?username=DaniloRomano&theme=react&repo=Tetris-vue)](https://github.com/DaniloRomano/Tetris-vue)
 
+> ## Automatic Deploy Github Actions on Vercel
 
-<!--
-**DaniloRomano/DaniloRomano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ### Movit AngularJS - Status 
+> [![Movit AngularJS](https://github.com/DaniloRomano/movit-angularjs/actions/workflows/workflow.yml/badge.svg?event=workflow_dispatch)](https://github.com/DaniloRomano/movit-angularjs/actions/workflows/workflow.yml)
